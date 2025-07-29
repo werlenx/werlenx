@@ -1,17 +1,19 @@
 <h1 align="center">👋 Olá, eu sou o Werlen Araujo</h1>
 
 <p align="center">
-  Desenvolvedor Front-End em formação | Professor de Informática | Apaixonado por Tecnologia, IA e Blockchain
+  Desenvolvedor Front-End | Setor de TI na Francal | Apaixonado por Tecnologia, IA e Blockchain
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-🎓 Bacharelando em Sistemas de Informação pela Unifesspa – últimos 6 meses  
-👨‍🏫 Professor de Informática no IFP - Instituto Profissionalizante  
+🎓 Bacharelando em Sistemas de Informação pela Unifesspa – últimos 3 meses  
+👨‍🏫 Professor de Informática no IFP - Instituto Profissionalizante
+💻 Atualmente atuando no setor de TI da **Francal Distribuidora**  
+🌐 Cursando o **Web23 - LuizTools** blockchain e cripto  
 ⚛️ Focado em desenvolvimento Front-End com **React**  
-📡 Explorando tecnologias como **Inteligência Artificial** e **Blockchain**  
+📡 Explorando tecnologias como **Inteligência Artificial** e **Blockchain (Ethereum, Bitcoin)**  
 🌱 Atualmente desenvolvendo o projeto [Gift Link](#) – plataforma de doações via blockchain  
 🎯 Buscando desafios reais pra crescer e aprender ainda mais!
 
@@ -27,17 +29,20 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ---
 
 ### 🧰 Projetos em Destaque
 
-🔗 [Gift Link](#) – *Sistema de doações via Blockchain com foco em transparência e descentralização*
+🔗 [Gift Link](https://github.com/werlenx/GiftLink) – *Sistema de doações via Blockchain com foco em transparência e descentralização*
 
-🛒 [Lojinha Online](#) – Projeto e-commerce simples com Next.js + Tailwind
+⚙️ **Automação Francal** – Automatização de uma rotina interna crítica do sistema **WinThor**  
+*(usado para agilizar processos e minimizar travamentos entre execuções)*
 
-📊 [Dashboard Francal](#) – Ferramenta interna para visualização de métricas do sistema WinThor
+🛒 [Lojinha Online](https://github.com/werlenx/AntonioLimaMarcenaria) – Projeto e-commerce com Next.js
 
 ---
 
@@ -58,5 +63,5 @@
 
 ---
 
-> “Conhecimento não serve de nada se não for usado para transformar o mundo.”  
+> “Grandes sistemas se constroem com boas práticas. Grandes profissionais, com caráter..”  
 > – Werlen Araujo dos Santos
