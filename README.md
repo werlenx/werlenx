@@ -9,7 +9,7 @@
 ### 🧠 Sobre mim
 
 🎓 Bacharelando em Sistemas de Informação pela Unifesspa – últimos 3 meses  
-👨‍🏫 Professor de Informática no IFP - Instituto Profissionalizante  
+👨‍🏫 Já atuei como professor de Informática  
 💻 Atualmente atuando no setor de TI da **Francal Distribuidora**  
 🌐 Cursando o **Web23 - LuizTools** blockchain e cripto  
 ⚛️ Focado em desenvolvimento Front-End com **React**  
@@ -51,8 +51,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=werlenx&show_icons=true&theme=tokyonight" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=werlenx&layout=compact&theme=tokyonight" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api?username=werlenx&show_icons=true&theme=tokyonight&rank_icon=github" />
-
 </div>
 
 ---
