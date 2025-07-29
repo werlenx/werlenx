@@ -9,7 +9,7 @@
 ### 🧠 Sobre mim
 
 🎓 Bacharelando em Sistemas de Informação pela Unifesspa – últimos 3 meses  
-👨‍🏫 Professor de Informática no IFP - Instituto Profissionalizante
+👨‍🏫 Professor de Informática no IFP - Instituto Profissionalizante  
 💻 Atualmente atuando no setor de TI da **Francal Distribuidora**  
 🌐 Cursando o **Web23 - LuizTools** blockchain e cripto  
 ⚛️ Focado em desenvolvimento Front-End com **React**  
@@ -32,7 +32,6 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
 
 ---
 
@@ -58,11 +57,19 @@
 
 ### 🤝 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/werlen-araujo)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/werlenx)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/werlenx)
+<p align="center">
+  <a href="https://www.linkedin.com/in/werlen-araujo" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/werlenx" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/werlenx" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-> “Grandes sistemas se constroem com boas práticas. Grandes profissionais, com caráter..”  
+> “Grandes sistemas se constroem com boas práticas. Grandes profissionais, com caráter.”  
 > – Werlen Araujo dos Santos
