@@ -31,6 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" height="40" alt="ethereum"/>
+  https://cryptologos.cc/logos/ethereum-eth-logo.svg
 </div>
 
 ---
